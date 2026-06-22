@@ -1,2 +1,16 @@
-# AI-based-Telegram-chatbot-Assistance-
-Telegram Chatbot Assistance for international students at Universitas Muhammadiyah Surakarta (UMS) uses AI-based bidirectional translation for Bahasa Indonesia and English and provides vocabulary quizzes from BIPA to learn along. Furthermore, it handles typing errors and puts the translated word in a sentence as an example.   
+ # UMS AI Telegram Chatbot
+An AI-powered Telegram chatbot integrated with the Google Gemini API to assist non-Indonesian-speaking international students at Universitas Muhammadiyah Surakarta (UMS). 
+
+## Features
+* Context-aware bidirectional translation (Indonesian <-> English).
+* Automated BIPA vocabulary quizzes triggered dynamically.
+* Auto-correction of typographical errors.
+
+## Technologies Used
+* Python 3.x
+* Telegram Bot API
+* Google Gemini API
+
+## How to Cite
+If you use this code in your research, please cite our paper:
+[AI-based Telegram Chatbot Assistance for International Students at UMS]
